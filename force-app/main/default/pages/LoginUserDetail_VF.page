@@ -1,0 +1,64 @@
+<apex:page controller="FetchUserData" action="{!getRecordValues}"  id="editable" showHeader="false" sidebar="false" standardStylesheets="false" title="UserDetails-LoginUserDetails" >
+    <apex:includeScript value="/support/console/32.0/integration.js" />
+    <title>UserDetails-LoginUserDetails</title>
+    <style>
+        #userdetail
+        {
+        
+        background-image:url('https://c.ap4.content.force.com/servlet/servlet.FileDownload?file=0156F00000CoEUi');
+        height:700px;
+        }
+        .userform
+        {
+        align:center;
+        color:white;
+        }
+        .outText
+        {
+        margin-left:100px;
+        
+        color:green;
+        }
+        label
+        {
+        color:blue;
+        }
+        .myinputs
+        {        
+        margin-top:-35px;
+        margin-left:250px;
+        }
+        p
+        {
+        margin-right:100px;
+        }
+        .logut
+        {
+        border:none; color:blue; background-color:white;
+        margin-left:1275px;
+        margin-top:3px;
+        }
+        
+    </style>    
+    
+    <div id="userdetail" align="center">
+        <apex:form styleClass="userform">
+            <apex:commandButton value="Logout" styleClass="logut" action="{!Logout}" />
+            <apex:inlineEditSupport disabled="enableEditing" event="{!myEvent}">
+                <p>Name</p><apex:inputText value="{!recname}" disabled="{!enableEditing}" styleClass="myinputs" /><br /><br />
+                <p>Email</p><apex:inputText value="{!email}" disabled="{!enableEditing}" styleClass="myinputs" /><br /><br />
+                <p>Username</p><apex:inputText value="{!username}" disabled="{!enableEditing}" styleClass="myinputs" /><br /><br />
+            </apex:inlineEditSupport>
+            <apex:commandButton value="Edit" style="margin-left:100px; border:none; color:blue; background-color:white;" id="edit" action="{!hideData}" rendered="{!hideEditButton}"  />
+            <apex:commandButton value="save" style="margin-left:100px; border:none; color:blue; background-color:white;" action="{!updateMyEditedRecord}" rendered="{!showUpdate}" />
+        </apex:form>
+    </div> 
+    <script type="test/javascript">
+    function mylogout()
+    {       
+        //  var sfOAuthPlugin  = sforce.connection.sessionId='{!GETSESSIONID()}';
+       alert('hai');
+    }
+    </script>
+    
+</apex:page>

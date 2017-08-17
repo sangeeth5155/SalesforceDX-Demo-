@@ -1,0 +1,29 @@
+<apex:page showHeader="false" sidebar="false" controller="LoginUser_AC" title="UserDetails-LoginPage">
+<title>UserDetails-LoginPage</title>
+    <style>
+        #loginStyle
+        {
+        background-image:url('https://c.ap4.content.force.com/servlet/servlet.FileDownload?file=0156F00000CoEUi');
+        height:700px;
+        }
+    </style>
+    <div id="loginStyle" align="center" >
+        <apex:messages />
+        <apex:form id="login_form" >
+            
+            <br /><br />
+            <h1 style="color:white; font-size:large"> Login </h1><br /><br />
+            <apex:inputText html-placeholder="Username" id="un" value="{!username}" /><br /><br />
+            <apex:inputSecret html-placeholder="Password" id="pwd" value="{!password}" /><br /><br />
+            <apex:commandButton title="Login" value="Login" style="border:none;" action="{!getUserDetails}" />
+            <apex:commandButton value="Cancel" onclick="reset();" />
+        </apex:form></div>
+    <script>
+    function reset()
+    {
+        document.getElementById('$Component.login_form.un').value="";
+        document.getElementById('$Component.login_form.pwd').value="";
+        window.location.top.reload();
+    }
+    </script>
+</apex:page>

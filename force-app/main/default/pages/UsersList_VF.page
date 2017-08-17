@@ -1,0 +1,50 @@
+<apex:page controller="UserDashBoard" action="{!getAllUsers}" standardStylesheets="false" showHeader="false" sidebar="false" title="UserDetails-AdminUserList">
+<title>UserDetails-AdminUserList</title>
+    <style>
+        table {
+        border-collapse: collapse;
+        width: 100%;
+        }
+        
+        th, td {
+        text-align: left;
+        padding: 8px;
+        }
+        
+        tr:nth-child(even){background-color: #f2f2f2}
+        
+        th {
+        background-color: #4CAF50;
+        color: white;
+        }
+    </style>
+    <apex:form >
+        <table>
+            
+            <tr><th>Name</th><th>Email</th><th>Username</th><th>Password</th><th>CreatedDate</th><th></th></tr>
+            <apex:repeat value="{!users}" var="alluser">
+                
+                <tr><td><apex:outputText value="{!alluser.Name}"/></td>
+                    <td><apex:outputText value="{!alluser.Email__c}"/></td>
+                    <td><apex:outputText value="{!alluser.username__c}"/></td>
+                    <td><apex:outputText value="{!alluser.Passwordd__c}"/></td>
+                    <td><apex:outputText value="{!alluser.CreatedDate}"/></td>
+                    <td> <apex:inputHidden value="{!alluser.id}" />
+                        <apex:commandButton alt="showall" value="showall" onclick="userval('{!alluser.id}')" /></td>
+                </tr>
+                
+            </apex:repeat>
+            <apex:actionfunction name="myActionFunction" action="{!showUserData}">
+                <apex:param name="userid" value=""/>
+            </apex:actionfunction>
+            
+        </table>
+    </apex:form>
+    <script>
+    function userval(myid)
+    {
+        myActionFunction(myid);
+        alert(myid);
+    }
+    </script>
+</apex:page>

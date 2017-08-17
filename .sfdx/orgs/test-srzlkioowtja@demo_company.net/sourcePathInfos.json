@@ -1,0 +1,872 @@
+[
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499342593069,
+            "changeTime": 1499344392785,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499342593069,
+            "changeTime": 1499342593069,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499342947758,
+            "changeTime": 1499342948025,
+            "contentHash": "417e63cd2d612e467efa68bc7308e8a7a00891c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499342948016,
+            "changeTime": 1499342948147,
+            "contentHash": "6e0f8db77d639bf7f43430e0e5f55ce826f033b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\FetchUserData.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\FetchUserData.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2452,
+            "modifiedTime": 1499333588318,
+            "changeTime": 1499342297930,
+            "contentHash": "251345af0421082034a001953315be646e5f21d9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\FetchUserData.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\FetchUserData.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1499322773652,
+            "changeTime": 1499323933047,
+            "contentHash": "c13f7d99a71a3f8f0a40f33425ceb5e91dfc6aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\homeControlls.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\homeControlls.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 475,
+            "modifiedTime": 1499333614680,
+            "changeTime": 1499333614680,
+            "contentHash": "1f1c7be8fdde21ae8f70b2da0fbbbe2a61aabd71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\homeControlls.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\homeControlls.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1499322773660,
+            "changeTime": 1499323933047,
+            "contentHash": "c13f7d99a71a3f8f0a40f33425ceb5e91dfc6aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\HomeTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\HomeTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 216,
+            "modifiedTime": 1499322773653,
+            "changeTime": 1499323933047,
+            "contentHash": "70d40ad2fee3de76303d1ae116836981d31eefb9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\HomeTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\HomeTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1499322773653,
+            "changeTime": 1499323933047,
+            "contentHash": "1884a4dc4bf0e61ae8be9e706248b512df5a8e79",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\LoginUser_AC.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\LoginUser_AC.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1080,
+            "modifiedTime": 1499335473859,
+            "changeTime": 1499335473859,
+            "contentHash": "898a9e27e7706e74b302ce8f80cce1931269cf25",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\LoginUser_AC.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\LoginUser_AC.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1499322773653,
+            "changeTime": 1499323933047,
+            "contentHash": "c13f7d99a71a3f8f0a40f33425ceb5e91dfc6aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\retrieveData.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\retrieveData.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1499322773661,
+            "changeTime": 1499323933047,
+            "contentHash": "f337e08f49f8e658dddafde20e1b9870eb6086e8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\retrieveData.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\retrieveData.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1499322773661,
+            "changeTime": 1499323933047,
+            "contentHash": "c13f7d99a71a3f8f0a40f33425ceb5e91dfc6aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\SaveUserData.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\SaveUserData.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1472,
+            "modifiedTime": 1499764480134,
+            "changeTime": 1499764480134,
+            "contentHash": "61879f34fb8af01865a85068071d5521b0f3c5ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\SaveUserData.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\SaveUserData.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1499322773656,
+            "changeTime": 1499323933047,
+            "contentHash": "c13f7d99a71a3f8f0a40f33425ceb5e91dfc6aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\TestFetchData.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\TestFetchData.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1788,
+            "modifiedTime": 1499322773657,
+            "changeTime": 1499323933047,
+            "contentHash": "1e7392a4ad0ecdefa2b9b13ca360030c0530e2e9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\TestFetchData.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\TestFetchData.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1499322773656,
+            "changeTime": 1499323933047,
+            "contentHash": "1884a4dc4bf0e61ae8be9e706248b512df5a8e79",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\TestLogin.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\TestLogin.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1590,
+            "modifiedTime": 1499322773657,
+            "changeTime": 1499323933047,
+            "contentHash": "00485021e9cc9775d61abc3a867999ae0a114f0b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\TestLogin.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\TestLogin.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1499322773657,
+            "changeTime": 1499323933047,
+            "contentHash": "36653e7488879c0ed6d7bd08805295fa678ca822",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\TestRaja_Test.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\TestRaja_Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 986,
+            "modifiedTime": 1499322773658,
+            "changeTime": 1499323933047,
+            "contentHash": "d0a1251b3059e5448f27d68015af4601f1025e40",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\TestRaja_Test.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\TestRaja_Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1499322773658,
+            "changeTime": 1499323933047,
+            "contentHash": "1884a4dc4bf0e61ae8be9e706248b512df5a8e79",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\UserDashBoard.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\UserDashBoard.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 972,
+            "modifiedTime": 1499322773659,
+            "changeTime": 1499323933047,
+            "contentHash": "9751290e9a50f61f167dc7579c69b4ddb7da744c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\UserDashBoard.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\UserDashBoard.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1499322773658,
+            "changeTime": 1499323933047,
+            "contentHash": "c13f7d99a71a3f8f0a40f33425ceb5e91dfc6aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\UserDetailsTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\UserDetailsTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1936,
+            "modifiedTime": 1499322773659,
+            "changeTime": 1499323933047,
+            "contentHash": "8d02679f15c9031fd8624b773a1baf0539d0cf7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\UserDetailsTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\UserDetailsTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1499322773659,
+            "changeTime": 1499323933047,
+            "contentHash": "36653e7488879c0ed6d7bd08805295fa678ca822",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\UserTestDashboard.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\UserTestDashboard.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 624,
+            "modifiedTime": 1499322773660,
+            "changeTime": 1499323933047,
+            "contentHash": "c2da744b476b1ea6179fadf445c375c6736919f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\UserTestDashboard.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\classes\\UserTestDashboard.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1499322773660,
+            "changeTime": 1499323933047,
+            "contentHash": "1884a4dc4bf0e61ae8be9e706248b512df5a8e79",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499342947678,
+            "changeTime": 1499342948061,
+            "contentHash": "3869fb92bfaf310c331213a6b195fcdc9df2d7f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\layouts\\UserDetail__c-UserDetail Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\layouts\\UserDetail__c-UserDetail Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3531,
+            "modifiedTime": 1499322773662,
+            "changeTime": 1499323933067,
+            "contentHash": "1ad0cdb836085aed8d046a49e00aaf5abdb0a7f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499342947681,
+            "changeTime": 1499342948099,
+            "contentHash": "c922e63170ad341362f907c51e42e8cc77ee7219",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499342947694,
+            "changeTime": 1499342947694,
+            "contentHash": "c85892431058eec5d6f236b1ea9f25be60b94e04",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499342947690,
+            "changeTime": 1499342947690,
+            "contentHash": "61b485ebb8c0e2308637db7913cd2905cf8fb090",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\fields\\Email__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1499322773689,
+            "changeTime": 1499323933067,
+            "contentHash": "1631be14e64fedbdfcda9ffba96cafb3fce13907",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\fields\\Passwordd__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\fields\\Passwordd__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 401,
+            "modifiedTime": 1499322773689,
+            "changeTime": 1499323933067,
+            "contentHash": "fcc809e241c39bd0d102e6b1f620d5210176fd5a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\fields\\username__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\fields\\username__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 440,
+            "modifiedTime": 1499322773689,
+            "changeTime": 1499323933067,
+            "contentHash": "0aed6874d0a9fbb1bfeccad016267b20ba40b9f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499342947695,
+            "changeTime": 1499342947695,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1499322773690,
+            "changeTime": 1499323933067,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\UserDetail__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\objects\\UserDetail__c\\UserDetail__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2065,
+            "modifiedTime": 1499322773688,
+            "changeTime": 1499323933067,
+            "contentHash": "63c04aa405b2b4f6c2ece26afbca1b353b116b1c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499342947720,
+            "changeTime": 1499342948101,
+            "contentHash": "943a50eba37e0b2fa5fc0df054dc816c627143db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\DisplayUserInfo.page",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\DisplayUserInfo.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1499322773691,
+            "changeTime": 1499323933083,
+            "contentHash": "ca4e1a07f57d8ca829f716e9aebf63e6fa3c0a0d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\DisplayUserInfo.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\DisplayUserInfo.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 298,
+            "modifiedTime": 1499322773691,
+            "changeTime": 1499323933083,
+            "contentHash": "02b9df5e79f5fe4989f52143b35444e35e8057f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\Home.page",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\Home.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 935,
+            "modifiedTime": 1499322773692,
+            "changeTime": 1499323933083,
+            "contentHash": "ee60a1b210736d1e838dfc7e6bb9b22efa377144",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\Home.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\Home.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 454,
+            "modifiedTime": 1499322773692,
+            "changeTime": 1499323933083,
+            "contentHash": "477f278f40a023bca47ed868b83fe6e4c220ebd5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\LoginUserDetail_VF.page",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\LoginUserDetail_VF.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2413,
+            "modifiedTime": 1500363854792,
+            "changeTime": 1500363854792,
+            "contentHash": "f33acb4d308d052dc03b1d5c680dc2590b37df7b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\LoginUserDetail_VF.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\LoginUserDetail_VF.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 468,
+            "modifiedTime": 1499322773692,
+            "changeTime": 1499323933083,
+            "contentHash": "6587de0a0124a1107f001ee1f6b9eca773c5f507",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\Login_VF.page",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\Login_VF.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1250,
+            "modifiedTime": 1499322773693,
+            "changeTime": 1499323933083,
+            "contentHash": "c06c38bcb548011dd0c9f386c58a2378565512ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\Login_VF.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\Login_VF.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 458,
+            "modifiedTime": 1499322773693,
+            "changeTime": 1499323933083,
+            "contentHash": "ce53ddaf5880448e82dc49d758c8f2686d6720ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\SignupPage.page",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\SignupPage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1839,
+            "modifiedTime": 1499322773694,
+            "changeTime": 1499323933083,
+            "contentHash": "f95c7f1e1245c6a9fc6c4a562a494bf65ef73e93",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\SignupPage.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\SignupPage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 460,
+            "modifiedTime": 1499322773694,
+            "changeTime": 1499323933083,
+            "contentHash": "80a88e77e0afe1b5b0add98f6f5ae8e5dda79d95",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\UsersList_VF.page",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\UsersList_VF.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1811,
+            "modifiedTime": 1499322773695,
+            "changeTime": 1499323933083,
+            "contentHash": "741dc9e70d7a41be9fa0c9b146b5de5bbde79f3f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\UsersList_VF.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\pages\\UsersList_VF.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 462,
+            "modifiedTime": 1499322773695,
+            "changeTime": 1499323933083,
+            "contentHash": "4f92bcc4aa86619526aff669267b1159a0a14b90",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499342947725,
+            "changeTime": 1499342948142,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19034,
+            "modifiedTime": 1499322773695,
+            "changeTime": 1499323933099,
+            "contentHash": "eb70d18f8616c4ad96c7fb44c5b2187ae3fc26c6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499342947731,
+            "changeTime": 1499342948145,
+            "contentHash": "6c34fd15ef692c7dd675a4f34f8c6e3ea5086280",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\tabs\\custom_home_tab.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\tabs\\custom_home_tab.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1499322773696,
+            "changeTime": 1499323933114,
+            "contentHash": "7f18f4205a68fe35ab595df99d4982094113a529",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\tabs\\UserDetail__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins\\force-app\\main\\default\\tabs\\UserDetail__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1499322773696,
+            "changeTime": 1499323933114,
+            "contentHash": "79ceaa70cf8847576f2845b1057ad37c456b4722",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDx Projects\\SalesforceDX-Jenkins",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1500443083791,
+            "changeTime": 1500443083791,
+            "contentHash": "546b3ad0191e26326de46f29f6d95661a3ff9a22",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

@@ -1,0 +1,47 @@
+<apex:page Controller="SaveUserData" sidebar="false" showHeader="false" title="UserDetails-SignupPage">
+<title>UserDetails-SignupPage</title>
+    <apex:pageMessages />
+    <style type="text/css">
+    .signupstyle
+      {
+        color:blue;
+        font-size:large;
+        padding:30px;
+        padding-left:20px;     
+      }
+        .pageClass
+        {
+        font-size:large;
+        height:1000px;
+        background-image:url('https://c.ap4.content.force.com/servlet/servlet.FileDownload?file=0156F00000CoEUi');
+        }
+        .textStyle
+        {
+        width:50%;
+        height:20%;
+       
+        text-align:center;
+        }
+        .formStyle
+        {
+       
+        }
+    </style>
+
+    <div class="pageClass">
+        <apex:messages /><br /><br />
+         <h1 style="margin-left:45%; color:White; font-style:italic; font-size:larger;">Sign up</h1><br />
+      <apex:form styleClass="signupstyle">
+          <div class ="formStyle" align="center">
+              
+         
+            <apex:inputText value="{!name}" id="name"  html-placeholder="Enter your name" styleClass="textStyle"/><br/><br/>
+			<apex:inputText value="{!email}" id="email" html-placeholder="Enter your email" styleClass="textStyle" /><br/><br/>
+          <apex:inputText value="{!username}" id="username" html-placeholder="Enter your username" styleClass="textStyle" /><br /><br/>
+         <apex:inputSecret value="{!pwd}" id="pwd"  html-placeholder="Enter your password" styleClass="textStyle" /><br/><br/>
+           <apex:inputSecret id="repwd" value="{!repwd}" html-placeholder="Retype your password" styleClass="textStyle" /><br /><br/>
+          <apex:commandButton value="Save" action="{!saveData}" style="color:red; width:20%" />
+              </div>
+    </apex:form>
+    </div>
+</apex:page>

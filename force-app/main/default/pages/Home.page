@@ -1,0 +1,17 @@
+<apex:page controller="homeControlls" showHeader="false" sidebar="false" standardStylesheets="false" title="UserDetails-Home">
+<title>UserDetails-Home</title>
+    <style>
+        #home
+        {
+        background-image:url('https://c.ap4.content.force.com/servlet/servlet.FileDownload?file=0156F00000CoEUi');
+        height:700px;
+        }
+    </style>
+    <div id="home" align="center">
+        <apex:form >
+            <apex:commandButton value="   Signup   " action="{!validateAndRedirect}" style=" background-color:white; font-size:large;   color:pink; margin-top:150px;  padding: 15px 32px; text-align: center; border-radius: 50%;" /> <br />
+            <br/>
+            <apex:commandButton value="   Login    " action="{!loginRedirect}" style="background-color:white; font-size:large; color:pink; padding: 15px 32px; text-align: center; border-radius: 50%;"/>     
+        </apex:form> 
+    </div>
+</apex:page>
