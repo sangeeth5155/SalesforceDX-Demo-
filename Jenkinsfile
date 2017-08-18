@@ -74,7 +74,7 @@ node {
             junit keepLongStdio: true, testResults: 'test/*-junit.xml'
 			bat "cd ${RUN_ARTIFACT_DIR}| echo y| del * "
 			bat "zip -r C:/Program Files/nexus/sonatype-work/nexus/storage/SalesforceDx_Test_Results/test.zip ${RUN_ARTIFACT_DIR}"
-        
+        }
        
 	   stage ('Covert to MDAPI')
 		{
@@ -95,5 +95,4 @@ node {
 		 
 		}
     }
-	
 }
