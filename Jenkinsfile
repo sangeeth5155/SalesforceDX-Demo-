@@ -94,15 +94,14 @@ node {
 		 rc = bat returnStatus: true, script: "\"${toolbelt}/sfdx\" force:mdapi:deploy -d ${MDAPI_FORMAT} -u test-vdjfamysdj1u@demo_company.net -l RunAllTestsInOrg"
 		 
 		}
-	    stage ('Test')
- {
-    try {
-        sh 'exit 1'
-    } finally {
-        println currentBuild.result  // this prints null
-        step([$class: 'Mailer', notifyEveryUnstableBuild: true, recipients: 'sangeetharajan.g@mstsolutions.com', sendToIndividuals: true])
-    }
-}
+	    post {
+        always {
+          step([$class: 'Mailer',
+            notifyEveryUnstableBuild: true,
+            recipients: "example@example.com",
+            sendToIndividuals: true])
+        }
+	    }
 	    
     }
 }
