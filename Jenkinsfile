@@ -97,6 +97,7 @@ node {
     }
 }
 node {
+	stage('notification')
    // do some work...
    // We need to wait for input from someone in devops, so lets send them
    // an email before pausing the build for input...
