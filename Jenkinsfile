@@ -94,14 +94,13 @@ node {
 		 rc = bat returnStatus: true, script: "\"${toolbelt}/sfdx\" force:mdapi:deploy -d ${MDAPI_FORMAT} -u test-vdjfamysdj1u@demo_company.net -l RunAllTestsInOrg"
 		 
 		}
-	    post {
-        always {
-          step([$class: 'Mailer',
-            notifyEveryUnstableBuild: true,
-            recipients: "example@example.com",
-            sendToIndividuals: true])
-        }
-	    }
+	  post {
+    failure {
+        mail to: 'sangeetharajan.g@mstsolutions.com',
+             subject: "Failed Pipeline: ${currentBuild.fullDisplayName}",
+             body: "Something is wrong with ${env.BUILD_URL}"
+    }
+}
 	    
     }
 }
