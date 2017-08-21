@@ -97,7 +97,13 @@ node {
     }
 }
 node {
+	 stage('checkout source') {
+        // when running in multi-branch job, one must issue this command
+        checkout scm
+    }
+
 	stage('notification')
+	{
    // do some work...
    // We need to wait for input from someone in devops, so lets send them
    // an email before pausing the build for input...
@@ -107,4 +113,4 @@ node {
    
    // continue on ...
 }
-
+}
